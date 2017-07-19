@@ -9,7 +9,7 @@
   "scripts": {
     "start": "npm run index.js",
     "test": "mocha",
-    "lint": ".eslintrc"
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
